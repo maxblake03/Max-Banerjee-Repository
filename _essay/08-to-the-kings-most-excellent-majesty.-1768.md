@@ -1,5 +1,5 @@
 ---
-title: To The King's Most Excellent Majesty. 1768.
+title: To The King's Most Excellent Majesty.
 order: 9
 byline: Max Banerjee
 ---
