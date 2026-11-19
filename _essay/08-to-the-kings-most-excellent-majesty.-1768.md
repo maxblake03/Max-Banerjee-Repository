@@ -6,14 +6,29 @@ byline: Max Banerjee
 ## Critical Introduction to "To Maecenas"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 
-To The King's Most Excellent Majesty. 1768.
+## To The King's Most Excellent Majesty. 1768.
 
-YOUR subjects hope, dread Sire— The crown upon your brows may flourish long, And that your arm may in your God be strong! O may your sceptre num’rous nations sway, And all with love and readiness obey! But how shall we the British king reward! Rule thou in peace, our father, and our lord! Midst the remembrance of thy favours past, The meanest peasants most admire the last May George, beloved by all the nations round, Live with heav’ns choicest constant blessings crown’d! Great God, direct, and guard him from on high, And from his head let ev’ry evil fly! And may each clime with equal gladness see A monarch’s smile can set his subjects free!
+YOUR subjects hope, dread Sire—<br> 
+The crown upon your brows may flourish long,<br> 
+And that your arm may in your God be strong!<br> 
+O may your sceptre num’rous nations sway,<br> 
+And all with love and readiness obey!<br> 
 
-The Repeal of the Stamp Act.
+But how shall we the *British* king reward!<br> 
+Rule thou in peace, our father, and our lord!<br> 
+Midst the remembrance of thy favours past,<br> 
+The meanest peasants most admire the last.*<br> 
+May *George*, belov'd by all the nations round,<br> 
+Live with heav’ns choicest constant blessings crown’d!<br> 
+Great God, direct, and guard him from on high,<br> 
+And from his head let ev’ry evil fly!<br> 
+And may each clime with equal gladness see<br> 
+A monarch’s smile can set his subjects free!<br>
+
+The Repeal of the Stamp Act.<br>
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_16;" %}
 
 ## Contextual Accompaniment to "To Maecenas"
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
