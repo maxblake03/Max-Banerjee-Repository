@@ -11,4 +11,11 @@ The Repeal of the Stamp Act.
 
 {% include essay/feature/image-gallery.html
    objectid="item1;item2;item3" %}
+   
+## Critical Introduction to "To Maecenas"
+This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+
+## Contextual Accompaniment to "To Maecenas"
+This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+
 ---
