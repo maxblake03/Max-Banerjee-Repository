@@ -14,7 +14,7 @@ And that your arm may in your God be strong!<br>
 O may your sceptre num’rous nations sway,<br> 
 And all with love and readiness obey!<br> 
 
-But how shall we the *British* king reward!<br> 
+&nbsp;But how shall we the *British* king reward!<br> 
 Rule thou in peace, our father, and our lord!<br> 
 Midst the remembrance of thy favours past,<br> 
 The meanest peasants most admire the last.{% include essay/feature/aside.html
