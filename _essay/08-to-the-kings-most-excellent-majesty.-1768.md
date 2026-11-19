@@ -3,10 +3,10 @@ title: To The King's Most Excellent Majesty. 1768.
 order: 9
 byline: Max Banerjee
 ---
-## Critical Introduction to "To Maecenas"
+## Critical Introduction to "To The KING's Most Excellent Majesty. 1768."
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
 
-## To The King's Most Excellent Majesty. 1768.
+## To The KING's Most Excellent Majesty. 1768.
 
 YOUR subjects hope, dread Sire—<br> 
 The crown upon your brows may flourish long,<br> 
@@ -29,7 +29,7 @@ A monarch’s smile can set his subjects free!<br>
 {% include essay/feature/image-gallery.html
    objectid="pwp_16;" %}
 
-## Contextual Accompaniment to "To Maecenas"
+## Contextual Accompaniment to "To The KING's Most Excellent Majesty. 1768."
 This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
 
 ---
